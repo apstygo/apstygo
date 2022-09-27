@@ -1,5 +1,9 @@
 # Artem Pstygo
 
+<p align="center">
+  <img width="400" src="Resources/profile-picture.png">
+</p>
+
 ## Contacts
 
 - [LinkedIn](https://linkedin.com/in/artyom-pstygo-a7a382188)
