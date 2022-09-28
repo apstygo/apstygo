@@ -43,14 +43,23 @@ __BS Business Informatics__ (Sep 2016 - Jun 2020)
 
 _National Research University Higher School of Economics, Moscow, Russia_
 
-## Personal Projects
+## Licenses & Certifications
 
-- [sheets](https://github.com/apstygo/sheets): A customizable sheet presentation controller for iOS apps using UIKit.
+- [Basics of C++ development: white belt](https://www.coursera.org/account/accomplishments/certificate/R4KNZ6T7MK47)
+- [Enterprise Design Thinking Practitioner](https://www.credly.com/badges/da2da437-5a25-4c21-b408-19504905b8a0/linked_in_profile)
+- [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/9DJX3TYRHTV9)
+- [Introduction to Recommender Systems: Non-Personalized and Content-Based](https://www.coursera.org/account/accomplishments/verify/S74X2JUC4KL7)
+- [Deep Learning for Business](https://www.coursera.org/account/accomplishments/verify/TNPBDZA5YA74)
+- [Mathematics and Python for Data Analysis](https://www.coursera.org/account/accomplishments/verify/2PWL8MWNURS2)
 
-## Conferences and Talks
+## Conferences & Talks
 
 - Presented at [Kaspersky SafeBoard Mobile Talks 2021](https://youtu.be/SVFptf8t3Zc?t=2656) (44:17 - 55:09)
 - Presented at [Kaspersky SafeBoard Mobile Talks 2022](https://youtu.be/ZPt1SJkPXks?t=1302) (21:42 - 31:14)
+
+## Personal Projects
+
+- [sheets](https://github.com/apstygo/sheets): A customizable sheet presentation controller for iOS apps using UIKit.
 
 ## Skills
 
@@ -59,6 +68,7 @@ _National Research University Higher School of Economics, Moscow, Russia_
   - Objective-C
   - Python
   - Ruby
+  - C++
 
 - iOS Skills:
   - RxSwift
