@@ -47,6 +47,11 @@ _National Research University Higher School of Economics, Moscow, Russia_
 
 - [sheets](https://github.com/apstygo/sheets): A customizable sheet presentation controller for iOS apps using UIKit.
 
+## Conferences and Talks
+
+- Presented at [Kaspersky SafeBoard Mobile Talks 2021](https://youtu.be/SVFptf8t3Zc?t=2656) (44:17 - 55:09)
+- Presented at [Kaspersky SafeBoard Mobile Talks 2022](https://youtu.be/ZPt1SJkPXks?t=1302) (21:42 - 31:14)
+
 ## Skills
 
 - Programming languages:
