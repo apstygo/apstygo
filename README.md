@@ -11,31 +11,36 @@
 
 ## Experience
 
-### iOS Developer (April 2021 - Present)
+### Avito (Nov 2022 - Present)
+_Yerevan, Armenia_
 
-_Kaspersky, Moscow, Russia_
+- Acted as a feature driver for SwiftUI adoption, being in charge of reviewing early adopters' code, improving performance and developing view-layer architecture.
+- Ported many UI components from UIKit to SwiftUI.
+- Developed a set of guidelines for writing new SwiftUI-based components and porting existing ones.
+- Was in charge of adopting native dark mode support throughout product's codebase.
+- Feature-led the development of a demo app showcasing Avito's design system, its components and available styles.
 
-- Developed a number of features for Kaspersky Safe Kids app. Was one of the first developers to work with Screen Time and Parental Control APIs.
-- Was in charge of merging Kaspersky Privacy into Kaspersky Security Cloud. I extracted the core logic of Kaspersky Privacy into a set of isolated, self-contained frameworks and made sure the newly introduced code adhered to Kaspersky Security Cloud's design principles.
-- Developed a separate server application that served as a test stand for Privacy functionality based on REST.
+### Kaspersky (Apr 2020 - Oct 2022)
+_Moscow, Russia_
 
-### Junior iOS Developer (April 2020 - April 2021)
+- Developed Privacy Suite – an application for monitoring and adjusting data privacy settings across many popular web services. Was one of the first developers at Kaspersky to utilize SwiftUI and Combine in a commercial product.
+- Was in charge of merging Privacy Suite into Kaspersky Security Cloud. Refactored and redesigned the core logic of Privacy Suite into a set of isolated, self-contained frameworks and made sure the newly introduced code adhered to Kaspersky Security Cloud's design principles.
+- Redesigned Privacy Suite's privacy setting engine, utilizing JS, WebKit and OperationQueue, boosting its speed by 30-50%.
+- Developed an in-house package management solution using Swift Package Manager and YAML.
+- Added support for Swift Package Manager in a number of shared frameworks.
+- Was one of the first developers to develop and ship features using Apple's Screen Time API for Kaspersky's Safe Kids app.
+- Was in charge of developing a RESTful API server for the purposes of testing JS scripts used in Kaspersky's Privacy Suite app. Provided a suite of tools for deploying the server.
+- Was the first developer in Kaspersky's iOS team to utilize Combine framework in the shared code base to make asynchronous code more readable, maintainable and safe.
 
-_Kaspersky, Moscow, Russia_
+### Rubeacon (Nov 2017 - Apr 2020)
+_Moscow, Russia_
 
-- Developed and unit tested a number of features for Kaspersky Security Cloud.
-- Was one of the two developers to start work and ship an entirely new product – Kaspersky Privacy.
-- Was the first developer in Kaspersky's iOS team to utilize Combine in the shared code base to make asynchronous code more
-readable, maintainable and safe.
-
-### Junior iOS Developer (November 2017 - April 2020)
-
-_RuBeacon, Moscow, Russia_
-
-- Rewrote an entire Objective-C app in Swift. Developed a scalable, testable architecture based on modern design principles, such as MVVM, compile-time dependency injection. Utilized functional reactive programming patterns to establish easy to understand and maintain code base using RxSwift.
-- Developed and maintained a set of tools for deployment automation. Utilized Fastlane to automate screenshooting, packaging and deployment to App Store.
-- Achieved 90% code ownership in the company's white-label iOS app!
-- Worked on McDonald’s app. Focused on unifying the code base and covering it with unit tests.
+- Rewrote an entire Objective‐C app in Swift. Developed a scalable, testable architecture based on modern design principles, such as MVVM, compile‐time dependency injection. Utilized functional reactive programming patterns to establish easy to understand, maintainable code base using RxSwift.
+- Developed and maintained a set of tools for deployment automation. Utilized Fastlane to automate screenshooting, packaging and deployment to App Store, decreasing new client deployment time by 10‐20%.
+- Achieved 90% codeownership in thecompany’s white‐label iOS app for delivery services and restaurants.
+- Developed McDonald’s app, focusing on fixing bugs and unifying the codebase.
+- Developed iMessage extension for McDonald’s app.
+- Built a white‐label Telegram bot for ordering from food deliveries and restaurants, expanding the company’s already excellent product offering.
 
 ## Education
 
@@ -59,6 +64,7 @@ _National Research University Higher School of Economics, Moscow, Russia_
 
 ## Personal Projects
 
+- [BooruViewer](https://github.com/apstygo/BooruViewer): An image viewing app for a popular image board made as an exploration of SwiftUI and Composable Architecture.
 - [sheets](https://github.com/apstygo/sheets): A customizable sheet presentation controller for iOS apps using UIKit.
 
 ## Skills
