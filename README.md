@@ -29,8 +29,12 @@
 
 ## Conferences & Talks
 
-- Presented at [Kaspersky SafeBoard Mobile Talks 2021](https://youtu.be/SVFptf8t3Zc?t=2656) (44:17 - 55:09)
-- Presented at [Kaspersky SafeBoard Mobile Talks 2022](https://youtu.be/ZPt1SJkPXks?t=1302) (21:42 - 31:14)
+- [Kaspersky SafeBoard Mobile Talks 2021](https://youtu.be/SVFptf8t3Zc?t=2656) (44:17 - 55:09)
+  - Spoke about Kaspersky’s approach to iOS development, technologies and products.
+  - Discussed why iOS development is important and why someone should takeup iOS development as a career path.
+- [Kaspersky SafeBoard Mobile Talks 2022](https://youtu.be/ZPt1SJkPXks?t=1302) (21:42 - 31:14)
+  - Spoke about how I learnt iOS development and how I got into the company.
+  - Outlined a learning checklist and a career path for future iOS developers.
   
 ## Languages
 
