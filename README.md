@@ -15,6 +15,7 @@
 
 ## Projects
 
+- [sfiii-decomp](https://github.com/apstygo/sfiii-decomp): A work-in-progress decompilation of the greatest fighting game – Street Fighter III: 3rd Strike.
 - [BooruViewer](https://github.com/apstygo/BooruViewer): An image viewing app for a popular image board made as an exploration of SwiftUI and Composable Architecture.
 - [sheets](https://github.com/apstygo/sheets): A customizable sheet presentation controller for iOS apps using UIKit.
 
