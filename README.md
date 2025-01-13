@@ -13,6 +13,9 @@
   </a>
 </p>
 
+![apstygo's Stats](https://github-readme-stats.vercel.app/api?username=apstygo&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![apstygo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apstygo&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 ## Projects
 
 - [sfiii-decomp](https://github.com/apstygo/sfiii-decomp): A work-in-progress decompilation of the greatest fighting game – Street Fighter III: 3rd Strike.
